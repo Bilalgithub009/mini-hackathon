@@ -1,0 +1,41 @@
+.head-sec{
+background-color: #ffd700;
+
+}
+.head-sec-2{
+background-color: #ffd700;
+
+}
+.top{
+position: relative;
+bottom: 790px;
+left: 740px;
+font-size: 130px;
+
+}
+.image-1{
+filter: grayscale();
+
+}
+.header{
+font-size: larger !important;
+
+}
+.top-2{
+position: relative;
+bottom:1700px;
+left: 500px;
+font-size: 60px;
+
+}
+.top-3{
+
+    position: relative;
+    bottom:1700px;
+    left: 500px;
+    font-size: 60px;
+
+}
+.header{
+    font-size: larger !important;
+}
